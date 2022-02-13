@@ -1,0 +1,4 @@
+Comandi:
+
+new - Crea un nuovo evento per la compagnia
+ping - Comando per il ping
