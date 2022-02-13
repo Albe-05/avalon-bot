@@ -186,3 +186,5 @@ gradle-app.setting
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/java,windows,intellij,gradle
+
+Bot-info/NotToCommit.txt
